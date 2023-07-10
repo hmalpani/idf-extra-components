@@ -1,0 +1,7 @@
+## IDF Component Manager Manifest File
+version: "1.0.0"
+description: Pre Encrypted OTA Example
+dependencies:
+  espressif/esp_encrypted_img:
+    version: "^2.0.1"
+    override_path: '../../../'

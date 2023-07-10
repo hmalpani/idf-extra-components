@@ -26,3 +26,8 @@ sh2lib/examples/http2_request:
   enable:
     - if: IDF_VERSION_MAJOR > 4 and INCLUDE_DEFAULT == 1
       reason: Example uses sh2lib component which was introduced in IDF v5.0
+
+esp_encrypted_img/examples/pre_encrypted_ota:
+  enable:
+    - if: IDF_VERSION_MAJOR > 4 and INCLUDE_DEFAULT == 1
+      reason: Example uses esp_encrypted_img component which was introduced in IDF v5.0
