@@ -1,9 +1,9 @@
 name: libcoap
-version: 4.3.4
+version: 4.3.4a
 cpe: cpe:2.3:a:libcoap:libcoap:{}:*:*:*:*:*:*:*
 supplier: 'Organization: libcoap <https://libcoap.net/>'
 description: A CoAP (RFC 7252) implementation in C
 url: https://github.com/obgm/libcoap
-hash: 5fd2f89ef068214130e5d60b7087ef48711fa615
+hash: f6a9d52ccf791060fd8233d85ba9d87878de6e04
 
 

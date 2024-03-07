@@ -116,7 +116,7 @@ published under EPL+EDL: http://www.eclipse.org/californium/
 
 ## libcoap Documentation
 This can be found at [libcoap Documentation](https://libcoap.net/documentation.html).
-The current API is 4.3.4.
+The current API is 4.3.4a.
 
 ## libcoap Specific Issues
 These can be raised at [libcoap Issues](https://github.com/obgm/libcoap/issues).
